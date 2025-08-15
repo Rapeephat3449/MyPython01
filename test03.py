@@ -11,4 +11,8 @@ print(3.14124) # float
 
 # boolean ตรรกะ มีแค่ true(จริง) และ false(เท็จ)
 print(True)
-print(Faise)
+print(False)
+
+# Expression นิพจน์ คืออะไรก็ตามที่มี process การทำงานเช่น การคำนวณ,ตัวแปรม.....
+print(10+20+5)
+print(10 * 2 / 2)

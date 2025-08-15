@@ -10,7 +10,7 @@ print('Hello'+str(555)+'Wow'+str(999)+str(True)+'Hi'+str(10+20-5)+str(152.875))
 # (ข้อมูลที่ไม่ใช้ string ให้ใส่ใน () ของ format และตำปหน่งที่แทนข้อมูลนั้นให้ใส่ {} แทน)
 print('hello {} wow {} {} Hi {} {}'.format{555,999,true,10+20-5,152.875})
 
-# index number
+# index number          0   1   2   3   4
 print('{2} {4}'.format('a','b','c','d','e'))
 
 # วิธีที่ 4 ใช้ f-string โดยข้อมูลแสดงอยู่ในรูปแบบของ string โดยมี f อยู่ข้างหน้า
